@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benjaminmenbi
 - 👀 I’m interested in python, database,xampp,java script
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,SQL, python
 - 💞️ I’m looking to collaborate on Android apps
 - 📫 How to reach me endale.binyam@gmail.com
 
